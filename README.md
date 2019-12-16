@@ -1,7 +1,3 @@
-# confluence
 
-[![Join the chat at https://gitter.im/episphere/confluence](https://badges.gitter.im/episphere/confluence.svg)](https://gitter.im/episphere/confluence?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Lorena experimenting with landing UIs for Confluence, live at https://episphere.github.io/confluenceLanding !
 
-
-Confluence project, live at  https://episphere.github.io/confluenceLanding
-------------------------------------------------------------------
